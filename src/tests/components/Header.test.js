@@ -3,7 +3,6 @@ import { shallow } from 'enzyme';
 //import ReactShallowRenderer from 'react-test-renderer/shallow';
 //import toJSON from 'enzyme-to-json';
 import { Header } from '../../components/Header';
-import { start } from 'repl';
 
 
 test('should render Header correctly', () => {
